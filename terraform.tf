@@ -8,12 +8,12 @@ terraform {
       version = "~> 3.0.2"
     }
   }
-  /*
+  
   cloud {
     organization = "jeseija"
     workspaces {
       name = "learn-terraform-azure"
     }
   }
-  */
+  
 }
